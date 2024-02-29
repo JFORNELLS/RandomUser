@@ -1,0 +1,40 @@
+
+button {
+  background-color: #b2dfdb; /* Color de fondo verde */
+  color: white; /* Color de texto blanco */
+  font-size: 35px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 80px;
+}
+
+body {
+  background: linear-gradient(to bottom, #b2dfdb, #e0f2f1);
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  clip-path: inset(10% 0 40% 0);  
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.title3 {
+  font-size: 30px; /* Tamaño de fuente deseado, por ejemplo */
+}
+
+.button {
+  margin-bottom: 30px; /* Agrega un margen inferior al botón */
+}
+
+
+
+
